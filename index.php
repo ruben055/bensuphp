@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>BENSU</title>
+	<title>GraceYola</title>
+<style type="text/css">
+body {
+background-image: url("coba.gif");
+}
+
+.animasi-teks {
+  font-size: 20px;
+  width: 100%;
+  white-space:nowrap;
+  overflow:hidden;
+  -webkit-animation: typing 5s steps(70, end);
+  animation: animasi-ketik 5s steps(70, end);
+}
+
+@keyframes animasi-ketik{
+  from { width: 0; }
+}
+
+@-webkit-keyframes animasi-ketik{
+  from { width: 0; }
+}
+
+</style>
 </head>
 <body>
  
@@ -21,7 +44,7 @@
 		float: left;
 		width: 110px;
 		height: 100px;
-		background-color: #189fff;
+		background-color: #262626;
 	}
 	.jam-digital-malasngoding p {
 		color: #fff;
@@ -32,9 +55,17 @@
  
  
 </style>
- 
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+
+
 <center>
-	<h1>Good Evening, Geyol!!!</h1>
+<div class="animasi-teks">
+	<h1><font face="tipe_font_face" color="white">Good Evening, Geyol!!!</font></h1>
+</div>
 </center>
  
 <div class="jam-digital-malasngoding">
@@ -48,7 +79,15 @@
 		<p id="detik"></p>
 	</div>
 </div>
+ <center>
+ 	<h2><font face="tipe_font_face" color="white">Semangat Kuliahnya</font></h2>
+ 	<h2><font face="tipe_font_face" color="white">Jangan Ngeluh Terus -_-</font></h2>
+ 	<h2><font face="tipe_font_face" color="white">Wish All The Best - Bensu :v </font></h2>
  
+<audio controls autoplay> 
+	<source src="Amazing Grace (My Chains Are Gone) BYU Noteworthy (Chris Tomlin A Cappella Cover).mp3" type="audio/mp3">
+</audio>
+</center>
 
 <script>
 	window.setTimeout("waktu()", 1000);
