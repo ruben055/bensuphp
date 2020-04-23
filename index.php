@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat Jam Digital Dengan Javascript - www.malasngoding.com</title>
+	<title>BENSU</title>
 </head>
 <body>
  
@@ -34,7 +34,7 @@
 </style>
  
 <center>
-	<h1>Selamat Pagi , Geyol!!!</h1>
+	<h1>Good Evening, Geyol!!!</h1>
 </center>
  
 <div class="jam-digital-malasngoding">
