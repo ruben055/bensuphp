@@ -64,7 +64,7 @@ background-image: url("coba.gif");
 
 <center>
 <div class="animasi-teks">
-	<h1><font face="tipe_font_face" color="white">Good Evening, Geyol!!!</font></h1>
+	<h1><font face="tipe_font_face" color="white">Good Night, Geyol!!</font></h1>
 </div>
 </center>
  
