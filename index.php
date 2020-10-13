@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>GraceYola</title>
+	<title>Agnes</title>
 <style type="text/css">
 body {
 background-image: url("coba.gif");
@@ -64,7 +64,7 @@ background-image: url("coba.gif");
 
 <center>
 <div class="animasi-teks">
-	<h1><font face="tipe_font_face" color="white">Good Night, Geyol!!</font></h1>
+	<h1><font face="tipe_font_face" color="white">Good Evening, #KaumRebahan!!</font></h1>
 </div>
 </center>
  
@@ -84,9 +84,7 @@ background-image: url("coba.gif");
  	<h2><font face="tipe_font_face" color="white">Jangan Ngeluh Terus -_-</font></h2>
  	<h2><font face="tipe_font_face" color="white">Wish All The Best - Bensu :v </font></h2>
  
-<audio controls autoplay> 
-	<source src="Amazing Grace (My Chains Are Gone) BYU Noteworthy (Chris Tomlin A Cappella Cover).mp3" type="audio/mp3">
-</audio>
+
 </center>
 
 <script>
